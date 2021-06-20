@@ -1,0 +1,3 @@
+C:/Users/frixo/determinar_numeros_primos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/frixo/determinar_numeros_primos/cmake-build-debug/CMakeFiles/determinar_numeros_primos.dir
+C:/Users/frixo/determinar_numeros_primos/cmake-build-debug/CMakeFiles/edit_cache.dir
